@@ -4,6 +4,8 @@
 
 > **Note:** WebVideoCompress is designed for environments where the WebCodecs API is available. For full browser compatibility details, please refer to [Can I use WebCodecs](https://caniuse.com/webcodecs)
 
+[Live demo here](https://andtii.github.io/WebVideoCompress/)
+
 ---
 
 ## Features
