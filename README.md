@@ -31,8 +31,8 @@
 
 This is a Vite project. The source code is provided in the following TypeScript files:
 
-- [WebVideoCompress.ts](./WebVideoCompress.ts)
-- [VideoCompressorOptions.ts](./VideoCompressorOptions.ts)
+- [WebVideoCompress.ts](./src/WebVideoCompress.ts)
+- [VideoCompressorOptions.ts](./src/VideoCompressorOptions.ts)
 
 To run the project locally:
 
